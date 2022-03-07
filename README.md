@@ -19,7 +19,7 @@ $ cd MAX
 $ ls
 $ git pull
 $ chmod +x *
-$ python Insta.py
+$ python Max.py
 
  Tool Installation successful
 
@@ -37,7 +37,7 @@ git clone https://github.com/Aryan-mfc/MAX
 cd MAx
 git pull
 chmod +x *
-python Insta.py
+python Max.py
 
  Tool Installation successful
 
@@ -52,7 +52,7 @@ git clone https://github.com/Aryan-mfc/MAX
 cd MAX 
 git pull
 chmod +x *
-python Insta.ppy
+python Max.ppy
 
 
 
@@ -78,7 +78,7 @@ git clone https://github.com/Aryan-mfc/MAX
 cd MAX
 git pull
 chmod +x *
-python Insta.py.py
+python Max.py
 
 Tool Installation successful
 

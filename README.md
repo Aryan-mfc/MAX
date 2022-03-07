@@ -3,13 +3,12 @@
  
 This is a tool that will help you crack Instagram account very quickly.  You also need a cookie to run this tool.  You will understand how to get it when you run the tool
 
+#
 
-# Cracking Method
+#  Cracking Method
 
 + Multi Pass Cracking Tool,This is a Any Random Accounts Passwords Finder
 
-
-<img align="center" alt="dark-pick" height="110" style="border-radius:50px;" src="https://www.spech.de/2016/06/kali-linux-auf-dem-raspberry-pi/kali-logo.png">
 
 
 # Tool Features
@@ -22,6 +21,12 @@ This is a tool that will help you crack Instagram account very quickly.  You als
 + Two Factor Accounts Finder
 + Super Brute Mode
 
+#
+
+# Screenshot
+
+<img src="https://github.com/Aryan-Mfc/MAX/blob/main/Ss.jpg" width="200%" hight="200%">
+<p align="center">
 
 
 ## Connect With Me:

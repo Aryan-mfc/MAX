@@ -3,6 +3,35 @@
  
 This is a tool that will help you crack Instagram account very quickly.  You also need a cookie to run this tool.  You will understand how to get it when you run the tool
 
+
+# Cracking Method
+
++ Multi Pass Cracking Tool,This is a Any Random Accounts Passwords Finder
+
+
+<img align="center" alt="dark-pick" height="110" style="border-radius:50px;" src="https://www.spech.de/2016/06/kali-linux-auf-dem-raspberry-pi/kali-logo.png">
+
+
+# Tool Features
+
++ Random Accounts Cracker
++ Without Wordlist
++ Proxy Already Added
++ Fast Cracking
++ Usernames File Maker
++ Two Factor Accounts Finder
++ Super Brute Mode
+
+
+
+## Connect With Me:
+<br>
+WhatsApp :
+<br>
+<a href="https://wa.me//+917356268818"><img src="https://img.shields.io/badge/Whatsapp-1877F2?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=black" alt="Whatsapp"></a>
+<br>
+
+
 ### Installation On Termux
  
  

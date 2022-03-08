@@ -5,6 +5,16 @@ This is a tool that will help you crack Instagram account very quickly.  You als
 
 #
 
+# Tool Requirements 
+
++ Version from Termux 2021 onwards
+
+ + Net Usage : 20 Mb
+
++ Storage 50mb Above
+
++ Stable Connection
+
 #  Cracking Method
 
 + Multi Pass Cracking Tool,This is a Any Random Accounts Passwords Finder

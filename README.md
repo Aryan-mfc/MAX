@@ -39,13 +39,6 @@ This is a tool that will help you crack Instagram account very quickly.  You als
 <p align="center">
 
 
-## Connect With Me:
-<br>
-WhatsApp :
-<br>
-<a href="https://wa.me//+917356268818"><img src="https://img.shields.io/badge/Whatsapp-1877F2?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=black" alt="Whatsapp"></a>
-<br>
-
 
 ### Installation On Termux
  

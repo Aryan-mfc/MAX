@@ -49,6 +49,9 @@ $ apt upgrade
 $ pkg install git
 $ pkg install python
 $ pkg install python2
+$ apt-get install pip
+$ pip2 install pip
+$ pip2 install cpython
 $ pip2 install mechanize
 $ pip2 install requests
 $ git clone https://github.com/Aryan-mfc/MAX
@@ -87,9 +90,11 @@ To use the application, type in the following commands in GNU/Linux terminal.
 sudo apt install git
 git clone https://github.com/Aryan-mfc/MAX
 cd MAX 
+pip2 install pip
+pip2 install requests
 git pull
 chmod +x *
-python Max.ppy
+python Max.py
 
 
 

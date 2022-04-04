@@ -35,7 +35,7 @@ This is a tool that will help you crack Instagram account very quickly.  You als
 
 # Screenshot
 
-<img src="https://github.com/Aryan-Mfc/MAX/blob/main/Ss.jpg" width="200%" hight="200%">
+<img src="https://github.com/Aryan-Mfc/MAX/blob/main/Image.jpg" width="200%" hight="200%">
 <p align="center">
 
 

@@ -64,6 +64,33 @@ $ python Max.py
  Tool Installation successful
 
 ```
+
+#### What Is Coókie
+
+Cookies are small text files containing a string of characters that can be placed on your computer or mobile device that uniquely identifies your browser or device
+
+
+#### How To Make Cookie
+
+Install kiwi browser
+Create fake insta account 
+
+Open kiwi browser type www.instagram.com and log in it (fake insta account )
+
+Open new tab type "cookie dough extension" 
+
+Click chrome web store link (first link)
+
+Then add the cookie dough extension in your kiwi browser. 
+
+Go to previous tab 
+
+Insta account tab open 
+
+Just click three dot menu and scroll down let you can see the extension. Now click the extension. Done you can see your cookie.
+
+
+
 #### For iSH
  
 To use the application, type in the following commands in iSH.
